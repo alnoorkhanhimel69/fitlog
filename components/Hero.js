@@ -12,7 +12,7 @@ export default function Hero() {
         <a href="#library" className="btn btn-lime uppercase tracking-wide">Browse workouts <ArrowDown size={16} /></a>
       </div>
       {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img src="/hero.svg" alt="Barbell with orange plates" className="mx-auto w-full max-w-xs md:max-w-sm" />
+      <img src="/workout-hero.png" alt="workout-hero" className="mx-auto w-full max-w-xs md:max-w-sm" />
     </section>
   );
 }
